@@ -455,13 +455,11 @@ span {
 .gallery-footer:hover {
   text-decoration: none;
 }
- .logo-footer {
-   margin-bottom: 20px;
- }
+.logo-footer {
+  marging-bottom: 20px;
+}
 .gallery-footer-adress {
   padding-bottom: 9px;
-  
-}
 }
 .gallery-footer {
   padding-bottom: 9px;
