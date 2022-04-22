@@ -448,6 +448,6 @@ span {
   display: block;
 }
 
-.contacts li:not(:last-child) {
+.contacts-footer li:not(:last-child) {
   margin-bottom: 9px;
 }
